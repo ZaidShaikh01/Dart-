@@ -1,0 +1,8 @@
+name: calculator
+description: This is an calculator package
+environment:
+  sdk: '^3.5.4'
+dependencies:
+  lints: ^5.0.0
+
+
